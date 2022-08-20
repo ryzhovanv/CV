@@ -15,7 +15,7 @@ QA-инженер, тестировщик
 -	Анализ требований и тестирование документации
 -	Составление и использование интеллект-карт (XMind)
 -	Оформление баг-репортов (YouTrack)
--	Основы программирования (JavaScript, Python, SQL, HTML, CSS)
+-	Основы программирования (JavaScript, Python, [SQL](https://drive.google.com/file/d/1GJLsz1-uf1tW8qNiIbCVZxGlhrW3LM-S/view?usp=sharing), HTML, CSS)
 -	Инструменты тестировщика (DevTools, Swagger)
 -	Хорошее владение базовыми программами MS Office (Word, Excel, Power Point) и сервиса Google Docs (документы, таблицы, презентации, формы)
 
