@@ -35,7 +35,7 @@ QA-инженер, тестировщик
 - English ‒ А1 
 
 ## Опыт работы
-[03.2022‒ 06.2022] (https://drive.google.com/file/d/1QkXy8FI8lwK4BnQyuCyc-t-3y6EW3WMm/view?usp=sharing)
+[03.2022‒ 06.2022](https://drive.google.com/file/d/1QkXy8FI8lwK4BnQyuCyc-t-3y6EW3WMm/view?usp=sharing)
 ООО “Группа ЛАД”
 Тестировщик (QA-стажер)
 -	Тестирование документации 
